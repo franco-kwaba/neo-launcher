@@ -1,0 +1,4 @@
+<resources>
+    <!-- Manter em sincronia com DarkNeu.background em NeoTheme.kt -->
+    <color name="neu_background">#FF2B2F36</color>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <!-- Manter em sincronia com LightNeu.background em NeoTheme.kt -->
+    <color name="neu_background">#FFE4E9F0</color>
+</resources>

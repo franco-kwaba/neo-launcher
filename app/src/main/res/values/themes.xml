@@ -1,0 +1,8 @@
+<resources>
+    <!-- Fundo sólido em vez do papel de parede: o neumorfismo depende de sombras sobre uma cor única -->
+    <style name="Theme.NeoLauncher" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:windowBackground">@color/neu_background</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+    </style>
+</resources>
